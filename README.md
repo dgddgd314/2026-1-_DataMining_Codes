@@ -7,6 +7,11 @@
 - PPTImageMaker.ipynb: 슬라이드 사이사이에 들어간 이미지들을 생성한 파일
 - PenguinClassification.ipynb: Palmer Penguins 데이터셋 분류 실습
 
+### 02. Neural Network
+퍼셉트론의 수학적 증명 및 다층신경망 MLP, 그리고 initialization, optimizer, normalization 등을 다룬 2차 발표 분량입니다.
+- DM_HW2.ipynb: 슬라이드 사이사이에 들어간 이미지들(보통 수학적 함수 설명)을 생성한 파일
+- Moon_dataset_(DM_HW2).ipynb: Moon Dataset을 바탕으로 진행한 신경망 학습 실습
+
 ---
 
 ## 🛠 Tech Stack
